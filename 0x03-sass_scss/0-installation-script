@@ -1,0 +1,15 @@
+Steps to install SASS:
+
+1. Ensure you have Node.js installed on your system
+2. Install SASS globally using npm:
+   npm install -g sass
+3. Verify installation by checking version:
+   sass --version
+4. SASS is now ready to use for compiling .scss files
+
+Alternative installation methods:
+- Using Homebrew (macOS): brew install sass/sass/sass
+- Using standalone package from official SASS website
+- Using specific version: npm install -g sass@1.77.8
+
+Note: SASS was successfully installed globally and is available system-wide.
